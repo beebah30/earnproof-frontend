@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "origin",
+    "security/issue-288-add-client-clock-skew-detection-and-recovery"
+  ],
+  "parent": {
+    "develop": null,
+    "origin": "develop",
+    "security/issue-288-add-client-clock-skew-detection-and-recovery": "develop"
+  },
+  "order": [
+    "develop",
+    "origin",
+    "security/issue-288-add-client-clock-skew-detection-and-recovery"
+  ]
+}
